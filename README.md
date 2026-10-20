@@ -67,7 +67,7 @@ Photos and standard video on OnlyFans are **free and unlimited**. **Basic** ($5/
 - Runs entirely on your device. Media and your login session never reach our servers.
 - **Never asks for your OnlyFans password.** Anything asking you to type your platform password into it is a credential grab, not a downloader.
 - Paces requests like ordinary browsing rather than hammering the site.
-- The shipped build is flagged by **0 of 64** engines on [VirusTotal](https://www.virustotal.com/gui/file/8127518bc0400c66018778b113ac026bfce34d3c15ad45e89def1108d3136fd9/detection).
+- The shipped build is flagged by **0 of 66** engines on [VirusTotal](https://www.virustotal.com/gui/file/506efbd7e2702aa8097831b17309d0dbfcf5aa4c51ea6ba09b85887158ef57fb/detection).
 
 No tool that talks to a site it does not control can promise you an outcome, and anything claiming "100% undetectable" is bluffing. Local processing, no password, and human-paced requests are the honest version.
 
